@@ -1,3 +1,2 @@
 # fundamentosrda2 
-Creado por Daniel
-
+Creado por el grupo 4
